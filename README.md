@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently enhancing my technical interview skills, while working on my own personal website.
-- 🌱 I’m currently learning Python, and Front-end dev.
+- 🌱 I’m working on Python, and Front-end dev.
 - 💬 Ask me about ** my interest in tech and beyond**
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I speak more than 3 languages
