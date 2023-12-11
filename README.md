@@ -1,4 +1,4 @@
-### Hi there 👋, I am Saron 
+### Hi there 👋🏾, I am Saron 
 
 <!--
 **Saronbgm/Saronbgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
