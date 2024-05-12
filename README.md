@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently focused on mobile dev and creating a personal portfolio :) 
-- 💬 interested in the intersection of tech and humanity
-        💖 all things tech, travel, foreign languages and volunteering
+- 💬 interested in tech for social impact
+- 💖 all things tech, travel, foreign languages and volunteering
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I speak more than 3 languages
