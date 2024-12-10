@@ -4,7 +4,7 @@
 **Saronbgm/Saronbgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently focused on mobile dev and creating a personal portfolio :) 
+- 🔭 I’m currently focused on getting AWS CPP certification and diving more into android dev :) 
 - 💬 interested in tech for social impact
 - 💖 all things tech, travel, foreign languages and volunteering
 - 😄 Pronouns: she/her
