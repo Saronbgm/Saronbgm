@@ -30,11 +30,11 @@
 ```elm
 🌿 Creating  :: building mindful digital experiences
 🎋 Learning  :: ios development + studying for aws cert
-🌱 Growing   :: [your project]
+🌱 Growing   :: [secret for now]
 ```
 
 ### 技 Craft
-<img src="https://skillicons.dev/icons?i=js,ts,kotlin,swift,react,figma" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,kotlin,swift,react,figma" />
 
 ### 絆 Connect
 <div>
