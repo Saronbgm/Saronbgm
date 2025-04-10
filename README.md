@@ -45,7 +45,7 @@
 <div align="center">
   
 <!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=Mindful%20Growth&bg_color=00000000" height="150" alt="stats graph"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=Mindful%20Growth&bg_color=00000000" height="150" alt="stats graph"/> -->
 
 <!-- Footer Wave -->
 <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=87ab69&height=120&section=footer"/>
