@@ -1,13 +1,12 @@
-<!--
-### Hi there 👋🏾, I am Saron 
+# heeey! i'm Saron 👋🏾
+## about me
+- 👩🏾‍💻 solutions architect
+- 🌱 focused on advancing my skills in cloud through projects and aws certs
+- 🎓 **b.sc. in computer science**
+- 🌍 based in dc area
+- 🤍 all things tech, travel, cultures, foreign languages and volunteering
 
-<!--
-**Saronbgm/Saronbgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-
-- 🔭 I’m currently focused on getting AWS CPP certification and diving more into android dev :) 
-- 💬 interested in tech for social impact
-- 💖 all things tech, travel, foreign languages and volunteering
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I speak more than 3 languages
--->
+## 🛠️ Skills
+- **languages:** java, python, html, css, sql, kotlin, swift
+- **tools:** git, vs code, visual studio, 
