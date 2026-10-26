@@ -3,7 +3,6 @@
 - 👩🏾‍💻 solutions architect
 - 🌱 focused on advancing my skills in cloud through projects and aws certs
 - 🎓 **b.sc. in computer science**
-- 🌍 based in dc area
 - 🤍 all things tech, travel, cultures, foreign languages and volunteering
 
 
