@@ -1,5 +1,5 @@
-# heeey! i'm Saron 👋🏾
-## about me
+# heeey! i'm saron 👋🏾
+
 - 👩🏾‍💻 solutions architect
 - 🌱 focused on advancing my skills in cloud through projects and aws certs
 - 🎓 **b.sc. in computer science**
